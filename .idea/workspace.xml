@@ -5,34 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b195c20-1f72-47c2-81ca-bea700083b5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SeleniumProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coordinates.crx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise4.3.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise4.3.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise4.3.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise4.3.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise4.4.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise4.4.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise4.4.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise4.5.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise4.5.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise4.5.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise4.5.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise4.5.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise4.5.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise4.5.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise4.5.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2_try_finally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3_with_as.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test4_coordinates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test5_headless.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test6_headless_chrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise6.1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise6.1.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise6.3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise6.3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise6.3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test10_proxy2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test11_proxy_authorisation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test12_cookie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test7_ChromeProfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test8_takeMyIp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test9_proxy1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,15 +57,25 @@
     "Python.exercise4.5.7.executor": "Run",
     "Python.exercise4.5.8.executor": "Run",
     "Python.exercise4.executor": "Run",
+    "Python.exercise6.1.1.executor": "Run",
+    "Python.exercise6.1.2.executor": "Run",
+    "Python.exercise6.3.1.executor": "Run",
+    "Python.exercise6.3.2.executor": "Run",
+    "Python.exercise6.3.3.executor": "Run",
     "Python.exercize2.executor": "Run",
     "Python.test1.executor": "Run",
+    "Python.test10_proxy2 (1).executor": "Run",
+    "Python.test12_get_cookie.executor": "Run",
     "Python.test2_try_finally.executor": "Run",
     "Python.test4_coordinates.executor": "Run",
     "Python.test5_headless.executor": "Run",
     "Python.test6_headless_chrome.executor": "Run",
+    "Python.test8_takeMyIp.executor": "Run",
+    "Python.test9_proxy.executor": "Run",
+    "Python.test9_proxy1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/velik/PycharmProjects2/SeleniumProject"
   }
 }]]></component>
@@ -90,8 +84,8 @@
       <recent name="C:\Users\velik\PycharmProjects2\SeleniumProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test6_headless_chrome">
-    <configuration name="exercise4.5.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exercise6.3.3">
+    <configuration name="exercise6.1.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise4.5.7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise6.1.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise4.5.8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise6.3.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise4.5.8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise6.3.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test4_coordinates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise6.3.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test4_coordinates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise6.3.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test5_headless" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise6.3.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,7 +164,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test5_headless.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise6.3.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test6_headless_chrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test12_cookie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,7 +186,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test6_headless_chrome.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\velik\PycharmProjects2\SeleniumProject\test12_cookie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test6_headless_chrome" />
-        <item itemvalue="Python.test5_headless" />
-        <item itemvalue="Python.test4_coordinates" />
-        <item itemvalue="Python.exercise4.5.8" />
-        <item itemvalue="Python.exercise4.5.7" />
+        <item itemvalue="Python.exercise6.3.3" />
+        <item itemvalue="Python.exercise6.3.2" />
+        <item itemvalue="Python.exercise6.3.1" />
+        <item itemvalue="Python.test12_cookie" />
+        <item itemvalue="Python.exercise6.1.2" />
       </list>
     </recent_temporary>
   </component>
