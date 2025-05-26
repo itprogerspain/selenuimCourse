@@ -23,6 +23,24 @@ with webdriver.Chrome() as browser:
 
 
 
+# from selenium import webdriver
+#
+# URL = "https://parsinger.ru/selenium/3/3.3.3/index.html"
+# with webdriver.Chrome() as driver:
+#     driver.get(url=URL)
+#     stormtroopers = driver.find_elements("tag name", "a")
+#     numbers = []
+#     for stormtrooper in stormtroopers:
+#         attribute = stormtrooper.get_attribute("stormtrooper")
+#         if attribute.isdigit():
+#             numbers.append(int(attribute))
+#     driver.find_element("id", "inputNumber").send_keys(sum(numbers))
+#     driver.find_element("id", "checkBtn").click()
+#     code = driver.find_element("id", "feedbackMessage").text
+#     print("Result is:", code)
+
+
+
 
 # from selenium import webdriver
 #

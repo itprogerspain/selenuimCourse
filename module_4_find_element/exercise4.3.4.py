@@ -13,6 +13,20 @@ with webdriver.Chrome() as browser:
 
 
 
+# from selenium import webdriver
+#
+#
+# URL = "https://parsinger.ru/selenium/3/3.2.4/index.html"
+# with webdriver.Chrome() as driver:
+#     driver.get(url=URL)
+#     button = driver.find_element("id", "secret-key-button")
+#     button.click()
+#     code = button.get_attribute("data")
+#     print("Result is:", code)
+
+
+
+
 
 # from selenium import webdriver
 # from selenium.webdriver.common.by import By

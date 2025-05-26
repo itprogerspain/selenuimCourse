@@ -18,6 +18,30 @@ with webdriver.Chrome() as browser:
 
 
 
+# import time
+# from selenium import webdriver
+#
+#
+# URL = "https://parsinger.ru/selenium/6/6.2/index.html"
+#
+# with webdriver.Chrome() as driver:
+#     driver.get(url=URL)
+#     driver.find_element("tag name", "a").click()
+#     time.sleep(2)
+#     driver.find_element("tag name", "a").click()
+#     time.sleep(2)
+#     driver.back()
+#     time.sleep(2)
+#     driver.back()
+#     time.sleep(2)
+#     driver.find_element("id", "getPasswordBtn").click()
+#     alert = driver.switch_to.alert
+#     print("Result is:", alert.text)
+
+
+
+
+
 # driver.get('https://parsinger.ru/selenium/6/6.2/index.html')
 # driver.find_element('xpath', '//a[contains(@href, "page2")]').click()
 # driver.find_element('xpath', '//a[contains(@href, "page3")]').click()

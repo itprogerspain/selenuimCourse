@@ -13,3 +13,16 @@ with webdriver.Chrome() as browser:
 
 
 
+
+# from selenium import webdriver
+#
+# URL = "https://parsinger.ru/selenium/6/6.5/index.html"
+# with webdriver.Chrome() as driver:
+#     driver.get(url=URL)
+#     target = driver.find_element("id", "target")
+#     driver.execute_script("return arguments[0].scrollIntoView(true);", target)
+#     target.click()
+#     result = driver.find_element("id", "secret-key").text
+#     print(result)
+
+

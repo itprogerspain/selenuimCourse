@@ -22,6 +22,21 @@ with webdriver.Chrome() as browser:
 
 
 
+# from selenium import webdriver
+#
+# URL = "https://parsinger.ru/methods/1/index.html"
+# with webdriver.Chrome() as driver:
+#     driver.get(url=URL)
+#     while True:
+#         result = driver.find_element("id", "result").text
+#         if result.isdigit():
+#             print("Result is:", result)
+#             break
+#         else:
+#             driver.refresh()
+
+
+
 
 # from selenium import webdriver
 # from selenium.webdriver.common.by import By
