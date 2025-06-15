@@ -28,7 +28,7 @@ with webdriver.Chrome() as browser:
 
 
 
-# # первоначальный код который я делала для понимания и разбора откуда и как взять координаты
+# # первоначальный код для понимания и разбора откуда и как взять координаты
 #
 # import time
 # from selenium import webdriver
@@ -120,7 +120,7 @@ with webdriver.Chrome() as browser:
 
 
 
-# # хорошее короткое решение
+#
 #
 # from selenium.webdriver import Chrome, ActionChains
 # from selenium.webdriver.common.by import By
